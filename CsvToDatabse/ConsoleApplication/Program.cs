@@ -17,13 +17,17 @@ namespace ConsoleApplication
             List<Transection> transections = ReadCsv();
             Console.WriteLine(transections.Count);
 
-
-
+            bool save = StoreInDatabase(transections);
 
             Console.ReadLine();
         }
 
-
+        private static bool StoreInDatabase(List<Transection> transections)
+        {
+            AppContext context = new AppContext();
+            context.Transections.AddRange(transections);
+            return context.SaveChanges() > 0;
+        }
 
         private static List<Transection> ReadCsv()
         {
