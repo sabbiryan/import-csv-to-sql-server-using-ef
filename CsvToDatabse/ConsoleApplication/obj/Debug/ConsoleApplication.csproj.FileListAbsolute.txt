@@ -1,0 +1,12 @@
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\CsvHelper.dll
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\EntityFramework.dll
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\CsvHelper.xml
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\EntityFramework.xml
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Personal\Github\import-csv-to-sql-server-using-ef\CsvToDatabse\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
